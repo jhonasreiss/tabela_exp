@@ -1,72 +1,63 @@
-# Tabela de EXP
-IMPORTANTE!!!!!!!!!!!!!!!
-- Não apague nenhuma Pasta
-- Não apague nenhuma Imagem
+# EXP Table
+IMPORTANT!!!!!!!!!!!!!!!
+
+Do not delete any Folder
+Do not delete any Image
+============================================================================================
+
+HOW TO USE?
+
+first session:
+(1 - base level you want to use)
+(2 - level you want to reach)
+returns the result in experience needed
+
+second session:
+(1 - base level you want to use)
+(2 - experience you want to use as base)
+returns how many levels you will be able to level up
 
 ============================================================================================
 
+Software developed based on the software [Magic_Campus_Tools] by:
 
-COMO USAR?
-- primeira sessão:
-(1 - level que deseja usar como base)
-(2 - level onde deseja chegar)
-retorna o resultado em experiência que falta
+DarkCode (Server 3,4,5)
+The purpose of this software is to provide instructions and help players develop better.
 
+This functionality is part of a larger software that is still in development.
+Credit to:
 
-- segunda sessão:
-(1 - level que deseja usar como base)
-(2 - experiência que seja usar como base)
-retorna quantos lv você conseguirá upar
-
-
+tales (forum) [for creating EXP table]
+DarkCode (Server 3,4,5) [for being used as a base]
 ============================================================================================
 
+Developer:
 
-Software desenvolvido baseado no software [ Magic_Campus_Tools ] de:
-- DarkCode (Server 3,4,5)
-
-O Intuíto desse software é oferecer instruções e ajudar jogadores a se desenvolver melhor.
-- Essa funcionalidade faz parte de um grande software que ainda está em desenvolvimento.
-
-Crédito para:
-- tales (forum) [por ter feito tabela de EXP]
-- DarkCode (Server 3,4,5) [por ter sido usado como base]
-
-
+Buffador (Server 3,4,5)
+version 0.0.1
 ============================================================================================
 
+If you wish to collaborate with missing data for this table:
 
-Desenvolvedor:
-- Buffador (Server 3,4,5)
-versão 0.0.1
-
-
-============================================================================================
-
-
-Caso desejem colaborar com os dados que faltam dessa tabela:
-- precisa do exp [151-160]
-- mandem um direct para:
+need exp [151-160]
+send a direct message to:
 @jhonasreiss
+If you wish to collaborate with other data:
 
-
-Caso desejem colaborar com outros dados:
-- mandem um direct para:
+send a direct message to:
 @jhonasreiss
-
-
 ============================================================================================
 
-POSSÍVEIS PERGUNTAS!
+POSSIBLE QUESTIONS!
 
-Quando vai atualizar para a tabela de 160?
-Resposta: Sem previsão no momento pôs vai depender da ajuda dos jogadores para me informar os valores.
+When will you update to the 160 table?
+Answer: No forecast at the moment as it will depend on the help of players to inform me of the values.
 
-Posso ajudar de alguma forma?
-Resposta: pode sim! Estarei coletando dados e recebendo através do meu instagram (@jhonasreiss)
+Can I help in any way?
+Answer: Yes, you can! I will be collecting data and receiving it through my Instagram (@jhonasreiss)
 
-Preciso instalar o programa?
-Resposta: Não precisa instalar o programa ele foi compilado para executar sem necessidade de instalação.
+Do I need to install the program?
+Answer: No need to install the program, it has been compiled to run without installation.
 
-Qual linguagem você desenvolveu esse software?
-Resposta: Desenvolvi esse software em linguagem python usando o framework(Pyside6)
+Which language did you develop this software in?
+Answer: I developed this software in Python language using the framework (Pyside6)
