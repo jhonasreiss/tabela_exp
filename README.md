@@ -1,4 +1,4 @@
-#Tabela de EXP
+# Tabela de EXP
 IMPORTANTE!!!!!!!!!!!!!!!
 - Não apague nenhuma Pasta
 - Não apague nenhuma Imagem
